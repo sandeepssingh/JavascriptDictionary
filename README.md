@@ -1,4 +1,4 @@
-# JavascriptDictionary
+# Javascript Dictionary
 Javascript Dictionary with set, get, delete, undo and redo feature.
 Special about this dictionary is that it will support undo and redo of its history.
 
